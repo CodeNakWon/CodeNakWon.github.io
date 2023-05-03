@@ -2,6 +2,7 @@
 layout: default
 title: Lyra Starter Game
 parent: Unreal Engine
+has_children: true
 nav_order: 1
 ---
 
